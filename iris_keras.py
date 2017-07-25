@@ -1,6 +1,6 @@
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
-import matplotlib.pylot as plt
+import matplotlib.pyplot as plt
 %matplotlib
 import keras
 from keras.models import Sequential
